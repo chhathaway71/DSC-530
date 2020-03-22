@@ -4,4 +4,4 @@ This project uses a dataset that tracks temperatures and groundhog predictions o
 
 The temperatures are regional as well as national.
 
-The code, powerpoint presentation, and final summary results are included.
+The dataset, code, powerpoint presentation, and final summary results are included.
